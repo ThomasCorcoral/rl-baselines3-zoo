@@ -6,15 +6,16 @@
 
 ## Results for LunarLander-v2
 
-In the framework of the IAR course we had to train agents to solve with the best possible score the LunarLander-v2 (discrete) and LunarLanderContinuous-v2 (continuous) environments. To observe the methods implemented, the notebook summarizing the work is available <a href="https://github.com/ThomasCorcoral/rl-baselines3-zoo/blob/master/LunarLander.ipynb">here</a>
-The tuned hyperparameters are available <a href="https://github.com/ThomasCorcoral/rl-baselines3-zoo/tree/master/tuned_hyperparams">here</a>
-Finally, here are the evaluation results obtained with the file sb3_evaluator.py -- my agents are available <a href="https://github.com/ThomasCorcoral/rl-baselines3-zoo/tree/master/LunarLander_trained_agents">here</a>  --
+In the framework of the IAR course we had to train agents to solve with the best possible score the LunarLander-v2 (discrete) and LunarLanderContinuous-v2 (continuous) environments. To observe the methods implemented, the notebook summarizing the work is available <a href="https://github.com/ThomasCorcoral/rl-baselines3-zoo/blob/master/LunarLander.ipynb">here</a> <br />
+The tuned hyperparameters are available <a href="https://github.com/ThomasCorcoral/rl-baselines3-zoo/tree/master/tuned_hyperparams">here</a> <br />
+Finally, here are the evaluation results obtained with the file sb3_evaluator.py -- my agents are available <a href="https://github.com/ThomasCorcoral/rl-baselines3-zoo/tree/master/LunarLander_trained_agents">here</a>  -- <br />
 
 
 <center><img src="images/ppo_3.png" align="center"/></center>
 
 <center><img src="images/sac_2.png" align="center"/></center>
 
+ <br />
 
 <img src="images/panda_pick.gif" align="right" width="35%"/>
 
