@@ -1,0 +1,17 @@
+# tuned
+LunarLanderContinuous-v2:
+  n_timesteps: !!float 5e5
+  policy: 'MlpPolicy'
+  batch_size: 256
+  learning_rate: 0.005446184244899632
+  buffer_size: 262144
+  ent_coef: 'auto'
+  gamma: 0.9877986493994404
+  tau: 0.0039251709137456195
+  train_freq: 9
+  gradient_steps: 8
+  sde_sample_freq: 5
+  use_sde_at_warmup: False
+  use_sde: False
+  learning_starts: 2800
+  policy_kwargs: "dict(net_arch=[400, 300])"
