@@ -13,7 +13,7 @@ Finally, here are the evaluation results obtained with the file sb3_evaluator.py
 
 <img src="images/ppo_3.png"/>
 
-<img src="images/sac_2.gif"/>
+<img src="images/sac_2.png"/>
 
 
 <img src="images/panda_pick.gif" align="right" width="35%"/>
