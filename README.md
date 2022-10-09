@@ -11,9 +11,9 @@ The tuned hyperparameters are available <a href="https://github.com/ThomasCorcor
 Finally, here are the evaluation results obtained with the file sb3_evaluator.py -- my agents are available <a href="https://github.com/ThomasCorcoral/rl-baselines3-zoo/tree/master/LunarLander_trained_agents">here</a>  --
 
 
-<img src="images/ppo_3.png" align="center"/>
+<center><img src="images/ppo_3.png" align="center"/></center>
 
-<img src="images/sac_2.png" align="center"/>
+<center><img src="images/sac_2.png" align="center"/></center>
 
 
 <img src="images/panda_pick.gif" align="right" width="35%"/>
